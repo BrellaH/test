@@ -6,3 +6,7 @@
   - [active] polished personal page
   - [done] read [basic markdown syntax](https://www.markdownguide.org/basic-syntax/) 
   - [todo] revature oa
+
+10/15
+  - [active] job hunt
+  - [active] updated Rabbit Hole
