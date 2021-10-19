@@ -10,3 +10,11 @@
 10/15
   - [active] job hunt
   - [active] updated Rabbit Hole
+
+10/18
+  - [active] job hunt
+  - [done] CodeJam 2021 1A Prime Time
+ 
+ 
+10/19
+  - [todo] CodeJam 2021 1A Hacked Exam
