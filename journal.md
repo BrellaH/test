@@ -20,3 +20,6 @@ T 10/19
 
 W 10/20
   - [todo] CodeJam 2021 1A Hacked Exam
+
+F 10/22
+  - [done] mthree technical assessment
